@@ -13,5 +13,6 @@ function escape_entities(str) {
  return rv;
 }
 function do_escape(e){
- $('escaped').value = escape_entities(e.value)
+ $('escapedchar').value = escape_entities(e.value)
 }
+//escapedchar -> the id name i have used ove here
