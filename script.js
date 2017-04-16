@@ -12,6 +12,7 @@ function escape_entities(str) {
  }
  return rv;
 }
+
 function do_escape(e){
  $('escapedchar').value = escape_entities(e.value)
 }
