@@ -1,4 +1,4 @@
-//Simple escaper ,
+//Simple escaper Script
 //Author : @franlinrockz
 function $(esc_tool){
  return document.getElementById(esc_tool)
