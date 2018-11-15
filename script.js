@@ -1,5 +1,5 @@
 //Simple escaper Script
-//Author : @franlinrockz
+//Author : @beingfranklin
 function $(esc_tool){
  return document.getElementById(esc_tool)
 }
